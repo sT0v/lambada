@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lambada"
+version = "1.0.0"
+description = "Weenerdog emotes for the command line."
+# requires-python = ">=3.8"
+authors = [
+    {name = "Seth Stokes", email = "research.stokes@gmail.com"},
+]
+dependencies = [
+    "click"
+]

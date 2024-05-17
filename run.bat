@@ -1,0 +1,1 @@
+call python src\lambada\lambada.py
